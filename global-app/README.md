@@ -1,4 +1,4 @@
-# SimpleSolution
+# global-app
 
 ## Build Setup
 
